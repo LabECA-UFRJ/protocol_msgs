@@ -2,7 +2,7 @@
 <package format="2">
   <name>protocol_msgs</name>
   <version>0.0.0</version>
-  <description></description>
+  <description>Robot serial protocol messages</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
