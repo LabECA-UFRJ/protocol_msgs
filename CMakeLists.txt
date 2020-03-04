@@ -11,6 +11,4 @@ add_message_files(
 
 generate_messages()
 
-catkin_package(
-  INCLUDE_DIRS include
-  CATKIN_DEPENDS message_runtime)
+catkin_package(CATKIN_DEPENDS message_runtime)
